@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>나 Home.jsp야</h2>
+	<h2>나 Home.jsp야(수정22)</h2>
 </body>
 </html>
